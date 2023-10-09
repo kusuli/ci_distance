@@ -1,15 +1,16 @@
 # ci_distance
 a distance model between chord interpretations
 
-prepare.py
-	Use this program to convert from .rntxt files to what our program can process.
+<dl>
+	<dt>prepare.py</dt>
+	<dd>Use this program to convert from .rntxt files to what our program can process.</dd>
 
-test.py
-	Test program to evaluate all combinations.
+	<dt>test.py</dt>
+	<dd>Test program to evaluate all combinations.</dd>
 
-tps.py, gtps.py, gtps2.py
-	TPS and "generalized" TPS programs.
+	<dt>tps.py, gtps.py, gtps2.py</dt>
+	<dd>TPS and "generalized" TPS programs.</dd>
 
-train.py
-	Training program for GTPS.
-
+	<dt>train.py</dt>
+	<dd>Training program for GTPS.</dd>
+</dl>
